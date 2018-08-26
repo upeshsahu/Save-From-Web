@@ -25,7 +25,7 @@ this is abasic Command line tool that will help you to save important web Pages(
 
 <h1>How to Use</h1>
 <ul>
-  <li> Open location of Downloaded folder - <b>Run python3 quora_ans.py</b> in the Terminal </li>
+  <li> Open location of Downloaded folder - <b>Run python3 save_from_web.py</b> in the Terminal </li>
   <li>copy the url of webpage and paste it in terminal</li>
 <h1>Contribute</h1>
 <ul>
