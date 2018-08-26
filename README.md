@@ -1,7 +1,7 @@
 #Save From Web
 
 Getting Bored by opening the GEEKSFORGEEKS for dijstra for 1000 thousand .here is the solution.
-this is abasic Command line tool that will help you to save important web Pages(iamges too :) ) in pdf format. 
+this is abasic Command line tool that will help you to save important web Pages(images too :) ) in pdf format. 
 
 
 
